@@ -1,4 +1,4 @@
-<<img align="center" src="cropped_back.gif" height="1%" width="90%">
+<img align="center" src="cropped_back.gif">
 <h1 align="center">Hi 👋, I'm Sampad</h1>
 <h3 align="center">A passionate python developer from India✌️</h3>
 
