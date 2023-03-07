@@ -1,3 +1,4 @@
+<<img align="center" src="bgbg.gif" height="1%" width="90%">
 <h1 align="center">Hi 👋, I'm Sampad</h1>
 <h3 align="center">A passionate python developer from India✌️</h3>
 
