@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sampad Mohanty</h1>
+<h1 align="center">Hi 👋, I'm Sampad</h1>
 <h3 align="center">A passionate python developer from India✌️</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=the-sampad&label=Profile%20views&color=0e75b6&style=flat" alt="the-sampad" /> </p>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [the-sampad.github.io](the-sampad.github.io)
 
-- 📫 How to reach me **sampad.secondary@gmail.com**
+- 📫 Mail me at **sampad.secondary@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +24,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-sampad&show_icons=true&locale=en&layout=compact" alt="the-sampad" /></p>
 
 
-
-![snake gif](https://github.com/the-sampad/the-sampad/blob/output/github-contribution-grid-snake.gif)
-
-###
